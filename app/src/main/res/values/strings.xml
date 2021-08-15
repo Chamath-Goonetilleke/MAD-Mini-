@@ -19,4 +19,20 @@
     <string name="home_pcparts">PARTS</string>
     <string name="home_build">BUILD PC</string>
     <string name="home_profile">PROFILE</string>
+    <string name="laptop_manage">Laptop Management</string>
+    <string name="spare_part">Spare Part Management</string>
+    <string name="pc_build">PC Build Orders</string>
+    <string name="add">ADD</string>
+    <string name="edit_button">EDIT</string>
+    <string name="orders_button">ORDERS</string>
+    <string name="view_order_button">VIEW ORDER</string>
+    <string name="view_button">VIEW</string>
+    <string name="user_name">Chamath123</string>
+    <string name="complete_botton">COMPLETE</string>
+    <string name="username_bildOredr">Chamath123 Build Order</string>
+    <string name="address">Address :</string>
+    <string name="Phone_num">Phone No :</string>
+    <string name="Amount">Amount :</string>
+    <string name="get_payment_button">GET PAYMENT SLIP</string>
+    <string name="down_quotation">DOWNLOAD QUOTATION</string>
 </resources>
