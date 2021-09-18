@@ -9,24 +9,24 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MADMiniProject">
-        <activity android:name=".MainActivity8"></activity>
-        <activity android:name=".MainActivity7">
+        <activity android:name=".activities.MainActivity8"></activity>
+        <activity android:name=".activities.MainActivity7">
 
         </activity>
-        <activity android:name=".MainActivity6" />
-        <activity android:name=".MainActivity5"></activity>
+        <activity android:name=".activities.MainActivity6" />
+        <activity android:name=".activities.MainActivity5"></activity>
         <activity
-            android:name=".MainActivity4"
+            android:name=".activities.MainActivity4"
             android:theme="@style/Theme.MaterialComponents.NoActionBar">
 
         </activity>
-        <activity android:name=".MainActivity3" >
+        <activity android:name=".activities.MainActivity3" >
         <intent-filter>
             <action android:name="android.intent.action.MAIN" />
 
             <category android:name="android.intent.category.LAUNCHER" />
         </intent-filter></activity>
-        <activity android:name=".MainActivity2">
+        <activity android:name=".activities.MainActivity2">
             android:parentActivityName=".MainActivity">
             <!--
             The meta-data tag is required if you support API level 15
@@ -35,9 +35,9 @@
 
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".MainActivity" />
+                android:value=".activities.MainActivity" />
         </activity>
-        <activity android:name=".MainActivity" />
+        <activity android:name=".activities.MainActivity" />
     </application>
 
 </manifest>

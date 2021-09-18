@@ -1,9 +1,11 @@
-package com.example.madminiproject;
+package com.example.madminiproject.activities;
 
 import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.madminiproject.R;
 
 public class MainActivity5 extends AppCompatActivity {
 
