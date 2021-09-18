@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1009981879478",
+    "project_id": "mad-mini-ed21a",
+    "storage_bucket": "mad-mini-ed21a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009981879478:android:5cd9823661c423d22e6217",
+        "android_client_info": {
+          "package_name": "com.example.madminiproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009981879478-3pq0m9h0m2olvr6rlop98ag7rjgits52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaL84OE6IhWgWwHTKrr_WFRGe2PFfmJx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009981879478-3pq0m9h0m2olvr6rlop98ag7rjgits52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
